@@ -10,3 +10,4 @@
   - [Themewagon templates](https://themewagon.com/theme-price/free/)
 
 - You are going to edit the template, and customize it to your own (portfolio, blog, home business, etc...)
+- Upload your website to netlify. [Check this workshop](https://warehouse.joincoded.com/workshops/14-netlify/netlify/deploy).
