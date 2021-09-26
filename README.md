@@ -1,28 +1,12 @@
-# TASK-NAME
+# HTML profile page
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+- Fork and clone this [repository](https://github.com/JoinCODED/TASK-html-starter) and open it in VSCode
 
 ## Instructions
 
-Add instructions here. This is github flavoured markdown so you can be as creative as you want. Add code snippets, images, gifs, checkboxes, anything you want.
+- You are going to build your own cool website using any template from any of these websites
 
-### 1. Extract Components
+  - [w3schools templates](https://www.w3schools.com/w3css/w3css_templates.asp)
+  - [Themewagon templates](https://themewagon.com/theme-price/free/)
 
-- [ ] Look at the html in `index.html`
-- [ ] Move it into `App.js`
-- [ ] Do you see those cards? Can you turn them into a component??
-
-It should look like this:
-
-![screenshot](https://tenor.com/xNjE.gif)
-
-### 2. Do the thing
-
-Explanation of the thing and why we're about to do it. Cool right?
-
-- [ ] Make a `store.js` file
-- [ ] Copy + Paste broken code:  
-  ```js
-  console.log("lol");
-  ```
-- [ ] Have an explanation ready for when Zainab interrogates you
+- You are going to edit the template, and customize it to your own (portfolio, blog, home business, etc...)
